@@ -12,5 +12,7 @@ int main(){
     c = a + b;
     cout<<"Ket qua cua phep tinh a + b la : ";
     cout<< c;
+    cout<<"Day la doan moi sua them ne :";
+    cout<<"Cuoi cung sau 3 ngay cung lam duoc cai nay chu la them cai nhanh nua la oke la ";
     return 0;
 }
