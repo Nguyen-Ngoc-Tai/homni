@@ -18,5 +18,6 @@ int main(){
     c = a - b;
     cout<<"Hieu thi ra ket qua cua phep tinh a - b :";
     cout<<c;
+    cout<<"Ma sua cai nhanh moi de dua vao nhanh chinh deo duoc cay vai lon!!";
     return 0;
 }
