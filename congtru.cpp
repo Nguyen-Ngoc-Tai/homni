@@ -15,5 +15,8 @@ int main(){
     cout<<"Day la doan moi sua them ne :";
     cout<<"Cuoi cung sau 3 ngay cung lam duoc cai nay chu la them cai nhanh nua la oke la ";
     cout<<"Chu la dang tap cai nhanh ne ";
+    c = a - b;
+    cout<<"Hieu thi ra ket qua cua phep tinh a - b :";
+    cout<<c;
     return 0;
 }
