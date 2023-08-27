@@ -19,5 +19,7 @@ int main(){
     cout<<"Hieu thi ra ket qua cua phep tinh a - b :";
     cout<<c;
     cout<<"Ma sua cai nhanh moi de dua vao nhanh chinh deo duoc cay vai lon!!";
+    cout<<"Ngay 27 thang 8 nam 2023";
+    cout<<"Ngay 27 thang 8 nam 2023 ahhahaha";
     return 0;
 }
