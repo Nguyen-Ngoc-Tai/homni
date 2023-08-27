@@ -66,6 +66,7 @@ public class tai {
 		System.out.println("2.Ki thuat lap trinh : " + pointKTLT + " Diem chu : " + pointKTLTABC /*+ " Xep loai : " + typeKTLT*/ );
 		System.out.print("bai nay viet de up len github");
 		System.out.print("Nguyen Ngoc Tai");
+        System.out.print("Oke bay gio thi sua mot ti nao");
 	}
 
 }
