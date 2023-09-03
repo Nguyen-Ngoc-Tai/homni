@@ -32,6 +32,7 @@ public class java {
 		
 		//Output data 
 		System.out.println("So tien phai tra la " + money/1000 + " nghin dong");
+        System.out.println("Chúc Qúy Khách vui vẻ bên gia đình và có thật nhiều sức khỏe!!! Xin Cảm Ơn");
 	}
 
 }
